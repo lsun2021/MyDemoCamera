@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--密码输入框 没有左边的图片-->
+    <declare-styleable name="PsdSetEditText">
+        <attr name="set_psd_cursor_right" format="reference" />
+        <attr name="set_psd_right_visible" format="reference" />
+        <attr name="set_psd_right_invisible" format="reference" />
+        <attr name="set_psd_right_x" format="integer" />
+        <attr name="set_psd_right_y" format="integer" />
+        <attr name="set_psd_right_width" format="integer" />
+        <attr name="set_psd_right_height" format="integer" />
+    </declare-styleable>
+</resources>
